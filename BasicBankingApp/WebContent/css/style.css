@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+.container-form{
+	height:fit-content;
+	width:500px;
+	margin:auto;
+}
+.heading{
+	margin:auto;
+	width: fit-content;
+}
+div#headText {
+    margin-top: 20%;
+}
+.container{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.mainBtn {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+}
